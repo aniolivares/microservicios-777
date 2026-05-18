@@ -1,0 +1,5 @@
+cl/duoc/carrito/model/ItemCarrito.class
+cl/duoc/carrito/CarritoApplication.class
+cl/duoc/carrito/service/ItemCarritoService.class
+cl/duoc/carrito/repository/ItemCarritoRepository.class
+cl/duoc/carrito/controller/ItemCarritoController.class

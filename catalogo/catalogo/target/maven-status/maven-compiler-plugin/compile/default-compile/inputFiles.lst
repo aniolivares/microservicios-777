@@ -1,0 +1,5 @@
+/app/catalogo/src/main/java/cl/duoc/catalogo/CatalogoApplication.java
+/app/catalogo/src/main/java/cl/duoc/catalogo/controller/ProductoController.java
+/app/catalogo/src/main/java/cl/duoc/catalogo/model/Producto.java
+/app/catalogo/src/main/java/cl/duoc/catalogo/repository/ProductoRepository.java
+/app/catalogo/src/main/java/cl/duoc/catalogo/service/ProductoService.java

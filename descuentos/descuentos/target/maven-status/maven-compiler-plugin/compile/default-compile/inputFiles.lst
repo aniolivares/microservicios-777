@@ -1,0 +1,8 @@
+/app/descuentos/src/main/java/cl/duoc/descuentos/DescuentosApplication.java
+/app/descuentos/src/main/java/cl/duoc/descuentos/controller/DescuentoController.java
+/app/descuentos/src/main/java/cl/duoc/descuentos/dto/DescuentoRequestDTO.java
+/app/descuentos/src/main/java/cl/duoc/descuentos/dto/DescuentoResponseDTO.java
+/app/descuentos/src/main/java/cl/duoc/descuentos/exception/GlobalExceptionHandler.java
+/app/descuentos/src/main/java/cl/duoc/descuentos/model/Descuento.java
+/app/descuentos/src/main/java/cl/duoc/descuentos/repository/DescuentoRepository.java
+/app/descuentos/src/main/java/cl/duoc/descuentos/service/DescuentoService.java
