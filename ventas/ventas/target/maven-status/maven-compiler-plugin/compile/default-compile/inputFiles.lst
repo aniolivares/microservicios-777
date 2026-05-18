@@ -1,0 +1,8 @@
+/app/ventas/src/main/java/cl/duoc/ventas/VentasApplication.java
+/app/ventas/src/main/java/cl/duoc/ventas/controller/VentaController.java
+/app/ventas/src/main/java/cl/duoc/ventas/dto/VentaRequestDTO.java
+/app/ventas/src/main/java/cl/duoc/ventas/dto/VentaResponseDTO.java
+/app/ventas/src/main/java/cl/duoc/ventas/exception/GlobalExceptionHandler.java
+/app/ventas/src/main/java/cl/duoc/ventas/model/Venta.java
+/app/ventas/src/main/java/cl/duoc/ventas/repository/VentaRepository.java
+/app/ventas/src/main/java/cl/duoc/ventas/service/VentaService.java
