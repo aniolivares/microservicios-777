@@ -1,0 +1,12 @@
+cl/duoc/ordenes/repository/OrdenRepository.class
+cl/duoc/ordenes/controller/OrdenController.class
+cl/duoc/ordenes/service/OrdenService.class
+cl/duoc/ordenes/dto/OrdenRequestDTO.class
+cl/duoc/ordenes/OrdenesApplication.class
+cl/duoc/ordenes/model/Orden.class
+cl/duoc/ordenes/dto/OrdenResponseDTO.class
+cl/duoc/ordenes/dto/OrdenResponseDTO$OrdenResponseDTOBuilder.class
+cl/duoc/ordenes/client/PagoClient.class
+cl/duoc/ordenes/exception/GlobalExceptionHandler.class
+cl/duoc/ordenes/client/EnvioClient.class
+cl/duoc/ordenes/model/Orden$OrdenBuilder.class

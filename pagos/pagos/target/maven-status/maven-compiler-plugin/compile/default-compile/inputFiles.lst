@@ -1,0 +1,8 @@
+/app/pagos/src/main/java/cl/duoc/pagos/PagosApplication.java
+/app/pagos/src/main/java/cl/duoc/pagos/controller/PagoController.java
+/app/pagos/src/main/java/cl/duoc/pagos/dto/PagoRequestDTO.java
+/app/pagos/src/main/java/cl/duoc/pagos/dto/PagoResponseDTO.java
+/app/pagos/src/main/java/cl/duoc/pagos/exception/GlobalExceptionHandler.java
+/app/pagos/src/main/java/cl/duoc/pagos/model/Pago.java
+/app/pagos/src/main/java/cl/duoc/pagos/repository/PagoRepository.java
+/app/pagos/src/main/java/cl/duoc/pagos/service/PagoService.java

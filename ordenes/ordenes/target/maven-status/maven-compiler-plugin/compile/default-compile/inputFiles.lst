@@ -1,0 +1,10 @@
+/app/ordenes/src/main/java/cl/duoc/ordenes/OrdenesApplication.java
+/app/ordenes/src/main/java/cl/duoc/ordenes/client/EnvioClient.java
+/app/ordenes/src/main/java/cl/duoc/ordenes/client/PagoClient.java
+/app/ordenes/src/main/java/cl/duoc/ordenes/controller/OrdenController.java
+/app/ordenes/src/main/java/cl/duoc/ordenes/dto/OrdenRequestDTO.java
+/app/ordenes/src/main/java/cl/duoc/ordenes/dto/OrdenResponseDTO.java
+/app/ordenes/src/main/java/cl/duoc/ordenes/exception/GlobalExceptionHandler.java
+/app/ordenes/src/main/java/cl/duoc/ordenes/model/Orden.java
+/app/ordenes/src/main/java/cl/duoc/ordenes/repository/OrdenRepository.java
+/app/ordenes/src/main/java/cl/duoc/ordenes/service/OrdenService.java
